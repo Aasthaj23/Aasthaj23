@@ -1,6 +1,7 @@
 
 #Portrait libraries
 attrs==26.1.0
+beautifulsoup4==4.14.2
 certifi==2026.7.22
 charset-normalizer==3.5.1
 colorama==0.4.6
