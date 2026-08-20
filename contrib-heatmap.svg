@@ -4486,47 +4486,7 @@
     </text>
 
     <g>
-        
-                <rect
-                    x="105"
-                    y="155"
-                    width="12"
-                    height="12"
-                    rx="3"
-                    fill="#161b22"/>
-                
-                <rect
-                    x="123"
-                    y="155"
-                    width="12"
-                    height="12"
-                    rx="3"
-                    fill="#0e4429"/>
-                
-                <rect
-                    x="141"
-                    y="155"
-                    width="12"
-                    height="12"
-                    rx="3"
-                    fill="#006d32"/>
-                
-                <rect
-                    x="159"
-                    y="155"
-                    width="12"
-                    height="12"
-                    rx="3"
-                    fill="#26a641"/>
-                
-                <rect
-                    x="177"
-                    y="155"
-                    width="12"
-                    height="12"
-                    rx="3"
-                    fill="#39d353"/>
-                
+        <rect x="105" y="155" width="12" height="12" rx="3" fill="#161b22"/><rect x="123" y="155" width="12" height="12" rx="3" fill="#0e4429"/><rect x="141" y="155" width="12" height="12" rx="3" fill="#006d32"/><rect x="159" y="155" width="12" height="12" rx="3" fill="#26a641"/><rect x="177" y="155" width="12" height="12" rx="3" fill="#39d353"/>
     </g>
 
     <text

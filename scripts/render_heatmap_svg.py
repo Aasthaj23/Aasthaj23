@@ -158,20 +158,16 @@ def render(data):
     </text>
 
     <g>
-        {
-            ''.join(
-                f'''
-                <rect
-                    x="{LEFT + LABEL_WIDTH + 35 + i * 18}"
-                    y="{TOP + GRID_HEIGHT + 15}"
-                    width="12"
-                    height="12"
-                    rx="3"
-                    fill="{color}"/>
-                '''
-                for i, color in enumerate(PALETTE)
-            )
-        }
+        {''.join(
+            '<rect '
+            f'x="{LEFT + LABEL_WIDTH + 35 + i * 18}" '
+            f'y="{TOP + GRID_HEIGHT + 15}" '
+            'width="12" '
+            'height="12" '
+            'rx="3" '
+            f'fill="{color}"/>'
+            for i, color in enumerate(PALETTE)
+       )}
     </g>
 
     <text
