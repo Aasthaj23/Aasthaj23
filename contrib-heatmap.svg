@@ -76,9 +76,9 @@
                     width="12"
                     height="12"
                     rx="3"
-                    fill="#161b22">
+                    fill="#0e4429">
                     <title>
-                        2026-09-03: level 0
+                        2026-09-03: level 1
                     </title>
                 </rect>
                 
@@ -4504,8 +4504,8 @@
         font-family="monospace"
         font-size="11"
         fill="#8b949e">
-        Current streak: 15 days
-        • Longest streak: 15 days
+        Current streak: 16 days
+        • Longest streak: 16 days
     </text>
 
 </svg>
